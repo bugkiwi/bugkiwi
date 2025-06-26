@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Claude+Code+YYDS&&repeat=false)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&repeat=false&width=435&lines=A%CC%B6m%CC%B6+I%CC%B6+a%CC%B6+s%CC%B6e%CC%B6n%CC%B6i%CC%B6o%CC%B6r%CC%B6+e%CC%B6n%CC%B6g%CC%B6i%CC%B6n%CC%B6e%CC%B6e%CC%B6r%CC%B6%3F%CC%B6+;No%2C+I'm+a+Vibe+Coder.)](https://github.com/bugkiwi)
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/bugkiwi?label=Follow&style=social)](https://github.com/bugkiwi)
 [![GitHub stars](https://img.shields.io/github/stars/bugkiwi?label=Stars&style=social)](https://github.com/bugkiwi) -->
