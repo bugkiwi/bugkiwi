@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Claude+Code+YYDS)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Claude+Code+YYDS&&repeat=false)
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/bugkiwi?label=Follow&style=social)](https://github.com/bugkiwi)
 [![GitHub stars](https://img.shields.io/github/stars/bugkiwi?label=Stars&style=social)](https://github.com/bugkiwi) -->
